@@ -1,0 +1,4 @@
+# Full weight file is over GitHub's 100 MB limit: it is stored as pytorch_model.bin.part001-008.
+# Recombine in order (part001, part002, ...) to rebuild pytorch_model.bin.
+pytorch_model.bin
+.cache/
